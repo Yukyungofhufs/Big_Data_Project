@@ -13,3 +13,4 @@
 - We will credit the datasets:
 - 2020 dataset:  https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020
 - 2023 dataset:  https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
+- The datasets are mostly in the repository except for anime-dataset-2023, users-details-2023 and users-score-2023 (The three files were too big to upload)
